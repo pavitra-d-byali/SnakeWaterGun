@@ -1,2 +1,2 @@
 # SnakeWaterGun.
-snake,water,gun 
+snake,water,gun is a game 
